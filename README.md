@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francesco-fiorini
-- 😄 I'm a Phd Student in Information Engineering at University of Pisa
+- 😄 I'm a Phd Student in Information Engineering at University of Pisa, Italy
 - ⚡ I have BSc and MSc degrees in Telecommunications Engineering
 - 👀 I’m interested in Telecommunications Engineering, Networking, Cybersecurity, Statistical Optimization, Machine Learning
 - 📫 How to reach me: francesco.fiorini@phd.unipi.it
