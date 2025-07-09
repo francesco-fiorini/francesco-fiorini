@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @francesco-fiorini
 - 😄 I'm a PhD Student in Information Engineering at University of Pisa, Italy
 - ⚡ I have BSc and MSc degrees in Telecommunications Engineering
-- 👀 I’m interested in Quantum Key Distribution and Quantum Communication, Networking, Statistical Optimization, Queuing Theory and Machine Learning
+- 👀 I’m interested in Quantum Key Distribution and Quantum Communication, Networking, Statistical Optimization, Queueing Theory and Machine Learning
 - 📫 How to reach me: francesco.fiorini@phd.unipi.it
 
 
